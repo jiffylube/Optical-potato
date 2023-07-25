@@ -13,3 +13,8 @@ Implementations on future projects will follow.
 
 check if tesseract is installed correctly (macos)
 brew info tesseract
+
+
+#### Original files are forked from github link below
+
+https://github.com/wjbmattingly/ocr_python_textbook/tree/main
