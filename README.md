@@ -14,6 +14,7 @@ Implementations on future projects will follow.
 check if tesseract is installed correctly (macos)
 brew info tesseract
 
+Docs are tested on jupyter lab (not notebook)
 
 #### Original files are forked from github link below
 
